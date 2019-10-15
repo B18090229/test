@@ -4,4 +4,4 @@
 
 File|Build Status
 ---|---
-[![Build Status](https://travis-ci.com/B18090229/test.svg?branch=master)](https://travis-ci.com/B18090229/test)
+hello.c|[![Build Status](https://travis-ci.com/B18090229/test.svg?branch=master)](https://travis-ci.com/B18090229/test)
